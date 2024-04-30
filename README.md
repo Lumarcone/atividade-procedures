@@ -11,6 +11,6 @@ Como fica o email se duas pessoas tiverem o mesmo nome e sobrenome?
 ![modelo_logico](https://github.com/Weslethai/atividade-procedures/assets/165031332/6934407d-e23e-4d16-ace6-4cd6e04c0ed3)
 
 # Pré requisitos
-para esse exercicio foi utilizado o mysql workbenche
+para esse exercicio foi utilizado o mysql Workbench
 
 # Wesley Matheus Da silva, 236896
