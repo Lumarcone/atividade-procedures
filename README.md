@@ -8,7 +8,8 @@ O aluno possui um email que deve ter seu endereço gerado automaticamente no seg
 nome.sobrenome@dominio.com
 Como fica o email se duas pessoas tiverem o mesmo nome e sobrenome?
 # Modelo Lógico
-![modelo_logico](https://github.com/Weslethai/atividade-procedures/assets/165031332/6934407d-e23e-4d16-ace6-4cd6e04c0ed3)
+![image](https://github.com/Weslethai/atividade-procedures/assets/137897667/1b5cd0c3-5116-4f30-975c-05762d63334a)
+
 
 # Pré requisitos
 para esse exercicio foi utilizado o mysql Workbench
